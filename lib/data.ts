@@ -98,7 +98,7 @@ export const projectsData = [
   {
     title: "Staywell",
     description:
-      "A medical e-commerce website where the care-takers can buy medical/haelthcare supplies",
+      "A medical e-commerce website where the care-takers can buy medical/healthcare supplies",
     tags: [
       "React",
       "TailwindCSS",
