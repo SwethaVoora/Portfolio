@@ -98,7 +98,7 @@ export const projectsData = [
   {
     title: "Staywell",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "A medical e-commerce website where the care-takers can buy medical/haelthcare supplies",
     tags: [
       "React",
       "TailwindCSS",
@@ -111,8 +111,7 @@ export const projectsData = [
   },
   {
     title: "Amazon Clone",
-    description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+    description: "A Basic Amazon clone built with vanilla JavaScript",
     tags: ["Javascript", "HTML", "CSS"],
     imageUrl: amazonProjectImg,
   },
