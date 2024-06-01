@@ -64,19 +64,14 @@ export default function About() {
       </p> */}
 
       <p>
-        As a soon-to-be graduate in May 2024, I'm actively looking for full-time
+        Im a May 2024 Gradudate, actively looking for full-time
         opportunities in{" "}
         <span className="font-semibold">
-          Software Engineer/Frontend Engineer/Full stack Engineer roles.
+          Software Engineer/Frontend/Backend/Full stack Engineer roles.
         </span>
       </p>
       {/* <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies, and playing with my dog. I also enjoy{" "}
-        <span className="font-medium">learning new things</span>. I am currently
-        learning about{" "}
-        <span className="font-medium">history and philosophy</span>. I'm also
-        learning how to play the guitar.
+        <span className="italic">When I'm not coding</span>, I enjoy reading novels, cooking and organizing my house.
       </p> */}
     </motion.section>
   );
