@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import restImg from "@/public/FeastRest.png";
 import staywellImg from "@/public/staywell.png";
-import amazonProjectImg from "@/public/AmazonProject.png";
+import octosaleImg from "@/public/octosale.png";
 
 export const links = [
   {
@@ -110,10 +110,18 @@ export const projectsData = [
     imageUrl: staywellImg,
   },
   {
-    title: "Amazon Clone",
-    description: "A Basic Amazon clone built with vanilla JavaScript",
-    tags: ["Javascript", "HTML", "CSS"],
-    imageUrl: amazonProjectImg,
+    title: "OctoSale",
+    description:
+      "Developed a website to list some of my furniture items at a discounted price/for free",
+    tags: [
+      "TypeScript",
+      "Next.js",
+      "Shadcn",
+      "Payload CMS",
+      "MongoDB",
+      "Express.js",
+    ],
+    imageUrl: octosaleImg,
   },
 ] as const;
 
@@ -127,6 +135,9 @@ export const skillsData = [
   "HTML",
   "CSS",
   "Tailwind",
+  "Python",
+  "Django",
+  "Flask",
   "Java",
   "Spring Boot",
   "C#",
@@ -141,7 +152,4 @@ export const skillsData = [
   "Redux",
   "GraphQL",
   "Apollo",
-  "Python",
-  "Django",
-  "Flask",
 ] as const;
