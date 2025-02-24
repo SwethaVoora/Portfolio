@@ -48,7 +48,7 @@ export const experiencesData = [
     description:
       "Right after my Bachelors, My first full-time job was at Parexel International, where I constantly worked with global teams in US/UK and was actively working on Change Requests which were assigned to me via JIRA Software.",
     icon: React.createElement(CgWorkAlt),
-    date: "Jun 2018 - Dec 2020",
+    date: "Mar 2019 - Dec 2020",
   },
   {
     title: "Software Engineer",
